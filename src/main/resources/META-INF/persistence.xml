@@ -24,6 +24,8 @@
         <class>org.hibernate.examples.domain.inheritance.joinedtable.CreditCard4</class>
         <class>org.hibernate.examples.domain.inheritance.joinedtable.BillingDetails4</class>
 
+        <class>org.hibernate.examples.domain.entityassociations.onetoone.foreigngenerator.Address</class>
+        <class>org.hibernate.examples.domain.entityassociations.onetoone.foreigngenerator.User</class>
         <!--<exclude-unlisted-classes>true</exclude-unlisted-classes>-->
 
         <properties>
